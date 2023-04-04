@@ -1,0 +1,16 @@
+name: ML_superob-clustering
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - netcdf4
+  - xarray
+  - cfgrib
+  - geopandas
+  - h3-py
+  - pysal
+  - spopt
+  - matplotlib
+  - cartopy
+  - jupyter
+  - python
